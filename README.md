@@ -11,5 +11,12 @@
 5. star my repo
 ```
 
+#### if error
+```
+1. npm uninstall node-fetch
+2. npm install node-fetch@2
+3. make sure u changed webhook url
+```
+
 ### Live View 
 https://pinterestscraperapi.mrhealer.repl.co/
